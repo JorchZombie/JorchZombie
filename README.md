@@ -1,1 +1,1 @@
-### <img src="https://media1.tenor.com/m/bxT-HcVQnOQAAAAC/hi-smiley-face.gif" with="50" height="50" /> [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hola+como+estan+c:;Second+line+of+text)](https://git.io/typing-svg)
+### <img src="https://media1.tenor.com/m/bxT-HcVQnOQAAAAC/hi-smiley-face.gif" with="50" height="50" /> [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hola+Mundo;Soy+Jorge;jorch+pa'+los+compas+(+.+_+.+))](https://git.io/typing-svg)
