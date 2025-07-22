@@ -53,14 +53,24 @@ Programador en bases de datos, y el desarrollo backend. Busco formar parte de un
   <td>
 
 ## Stats
-<p align="center">
-  
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=JorchZombie&show_icons=true&theme=tokyonight"/>
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=JorchZombie&theme=tokyonight"/>
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorchZombie"/>
+<p width = "100%" align="top">
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JorchZombie&hide=contribs,prs&show_icons=true&theme=tokyonight)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JorchZombie&theme=tokyonight)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorchZombie&layout=compact)
+
+<!-- por si los llego a ocupar -->
+<!--<img width="100%" src="https://github-readme-stats.vercel.app/api?username=JorchZombie&show_icons=true&theme=tokyonight"/>-->
+<!--<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=JorchZombie&theme=tokyonight"/>-->
+<!--<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorchZombie"/>-->
 </p>
      
   </td>
  </tr>
 </table>
+<div>
+  <p><i> 
+  TODOS DEBEMOS SUFRIR UN DOLOR EN LA VIDA YA SEA:
+  EL DOLOR DE LA DISIPLINA O EL DOLOR DEL ARREPENTIMIENTO
+  <i/></p>
+</div>
