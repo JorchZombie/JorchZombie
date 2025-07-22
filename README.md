@@ -56,8 +56,9 @@ Programador en bases de datos, y el desarrollo backend. Busco formar parte de un
 ## Stats
 <p align="center">
   
-<img align="top" src="https://github-readme-stats.vercel.app/api?username=JorchZombie&show_icons=true&theme=tokyonight"/>
-<img align="botom" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorchZombie"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=JorchZombie&show_icons=true&theme=tokyonight"/>
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=JorchZombie&theme=tokyonight"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorchZombie"/>
 
 </p>
      
