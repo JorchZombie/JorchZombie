@@ -2,8 +2,7 @@
 <div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Bienvenidos+a+mi+perfil;Soy+jorge+c:;+Jorch+pa+los+compas)](https://git.io/typing-svg)
-
-<!-- <img src="https://media.tenor.com/FBjJTyS789wAAAAi/noob-roblox.gif" width="50px" height="50px" align="right"/>-->
+<!--<img src="https://media.tenor.com/FBjJTyS789wAAAAi/noob-roblox.gif" width="50px" height="50px" align="right"/>-->
 </div>
 
 
