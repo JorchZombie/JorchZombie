@@ -38,6 +38,29 @@ Programador en bases de datos, y el desarrollo backend. Busco formar parte de un
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=dark) 
 
 #### Herramientas & Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=git,github,docker,discord,ai,corel&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker,powershell,bash&theme=dark)](https://skillicons.dev)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=dark)
 
+#### Sistemas Operativos
+[![My Skills](https://skillicons.dev/icons?i=windows,linux,arch,ubuntu&theme=dark)](https://skillicons.dev)
+
+#### IDE
+[![My Skills](https://skillicons.dev/icons?i=vscode,neovim,sublime,&theme=dark)](https://skillicons.dev)
+
+#### Otros
+[![My Skills](https://skillicons.dev/icons?i=discord,ai,ps&theme=dark)](https://skillicons.dev)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=dark)
+</td>
+  <td>
+
+## Stats
+<p align="center">
   
+<img align="top" src="https://github-readme-stats.vercel.app/api?username=JorchZombie&show_icons=true&theme=tokyonight"/>
+<img align="botom" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorchZombie"/>
+
+</p>
+     
+  </td>
+ </tr>
+</table>
