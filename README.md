@@ -44,7 +44,7 @@ Programador en bases de datos, y el desarrollo backend. Busco formar parte de un
 [![My Skills](https://skillicons.dev/icons?i=windows,linux,arch,ubuntu&theme=dark)](https://skillicons.dev)
 
 #### IDE
-[![My Skills](https://skillicons.dev/icons?i=vscode,neovim,sublime,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,neovim,&theme=dark)](https://skillicons.dev)
 
 #### Otros
 [![My Skills](https://skillicons.dev/icons?i=discord,ai,ps&theme=dark)](https://skillicons.dev)
