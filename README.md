@@ -32,8 +32,11 @@ Programador en bases de datos, y el desarrollo backend. Busco formar parte de un
 #### Lenguajes
 [![My Skills](https://skillicons.dev/icons?i=py,java,cpp,cs,lua,html,css&theme=dark)](https://skillicons.dev)
 
+#### Desarrollo
+[![My Skills](https://skillicons.dev/icons?i=flask,fastapi&theme=dark)](https://skillicons.dev)
+
 #### Base de Datos
-[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,postgres&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite&theme=dark)](https://skillicons.dev)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=dark) 
 
 #### Herramientas & Tecnologias
@@ -44,7 +47,7 @@ Programador en bases de datos, y el desarrollo backend. Busco formar parte de un
 [![My Skills](https://skillicons.dev/icons?i=windows,linux,arch,ubuntu&theme=dark)](https://skillicons.dev)
 
 #### IDE
-[![My Skills](https://skillicons.dev/icons?i=vscode,neovim,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,neovim,idea&theme=dark)](https://skillicons.dev)
 
 #### Otros
 [![My Skills](https://skillicons.dev/icons?i=discord,ai,ps&theme=dark)](https://skillicons.dev)
@@ -74,3 +77,15 @@ Programador en bases de datos, y el desarrollo backend. Busco formar parte de un
   EL DOLOR DE LA DISIPLINA O EL DOLOR DEL ARREPENTIMIENTO
   <i/></p>
 </div>
+
+## &nbsp; &nbsp; 📬📥 &nbsp; Contactame c:
+
+<br/>
+
+&nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.linkedin.com/in/jorge-gonzalez-trejo-17a87626b/"><img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;&nbsp;&nbsp;
+<a href="glezjtrejo@gmail.com"><img width="85px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp; &nbsp; 
+<a href = "https://discordapp.com/users/325829461801041922"><img width="100px" alt = "Discord" src = "https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white"/></a>
+
+</br>
+
+
