@@ -71,12 +71,6 @@ Programador en bases de datos, y el desarrollo backend. Busco formar parte de un
   </td>
  </tr>
 </table>
-<div>
-  <p><i> 
-  TODOS DEBEMOS SUFRIR UN DOLOR EN LA VIDA YA SEA:
-  EL DOLOR DE LA DISIPLINA O EL DOLOR DEL ARREPENTIMIENTO
-  <i/></p>
-</div>
 
 ## &nbsp; &nbsp; 📬📥 &nbsp; Contactame c:
 
