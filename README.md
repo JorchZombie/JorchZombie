@@ -16,7 +16,7 @@ Programador en bases de datos, y el desarrollo backend. Busco formar parte de un
 
 <br>
 
-  - 💻 Apacioando por la Codificación
+  - 💻 Apacionado por la Codificación
   - 🔧 Trabajo en Equipo
   - 💪 Habilidad para resolver Problemas
     
