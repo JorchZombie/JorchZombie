@@ -32,15 +32,15 @@ Programador en bases de datos, y el desarrollo backend. Busco formar parte de un
 #### Lenguajes
 [![My Skills](https://skillicons.dev/icons?i=py,java,cpp,cs,lua,html,css&theme=dark)](https://skillicons.dev)
 
-#### Desarrollo
-[![My Skills](https://skillicons.dev/icons?i=flask,fastapi&theme=dark)](https://skillicons.dev)
+<!--#### Desarrollo-->
+<!--[![My Skills](https://skillicons.dev/icons?i=flask,fastapi&theme=dark)](https://skillicons.dev)-->
 
 #### Base de Datos
-[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql&theme=dark)](https://skillicons.dev)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=dark) 
 
 #### Herramientas & Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=git,github,docker,powershell,bash&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,powershell&theme=dark)](https://skillicons.dev)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=dark)
 
 #### Sistemas Operativos
